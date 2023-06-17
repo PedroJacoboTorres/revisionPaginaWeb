@@ -1,0 +1,54 @@
+	/* ARCHIVO PERSONALIZADO DE ESTILOS */
+
+	/* ------ ESTILOS GENERALES ----*/
+
+	body {
+		font-family: 'Fira Sans', sans-serif;
+		background-color: #e69900;
+		font-size: 20.2px;
+	} 
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Kablammo', cursive;
+		color: #green;
+		text-align: center;
+	}
+	h1 {
+		font-size: 3em;
+	}
+	h2 {
+		font-size: 1em;
+		background-color: #CBC17D;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		color: #772F1A;
+	}
+	.principal {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.contenidos {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+
+	/* ------- Navegación -----*/
+	.navegacion {
+		background-color: #CBC17D !important;
+	}
+	/* ----- Tablas ------*/
+	.tabla-menu {
+		--bs-table-bg: transparent;
+	}
+	.tabla-menu h3 {
+		text-align: left;
+	}
+
+
+	/* ----- Cards ----*/
+	.card {
+		margin-bottom: 5px;
+		background-color: #FDF8ED;
+
+	}
